@@ -5,8 +5,8 @@
   "keywords": [
     "laravel",
     "yourls",
-	"shorturl",
-	"URL Shortener"
+    "shorturl",
+    "URL Shortener"
   ],
   "type": "library",
   "authors": [
@@ -17,8 +17,8 @@
   ],
   "require": {
     "php": ">=7.0",
-	"illuminate/support": "~5.8.0",
-	"guzzlehttp/guzzle": "~6.0"
+    "illuminate/support": "~5.8.0|~6.0",
+    "guzzlehttp/guzzle": "~6.0"
   },
   "require-dev": {
     "orchestra/testbench": "~3.8.0",
